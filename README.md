@@ -1,4 +1,4 @@
 # **CassieOS**
 
 ### **What is CassieOS?**
-- testing markdown
+- CassieOS is a linux OS based on (still deciding, *Most likely Ubuntu*)
