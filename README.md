@@ -16,4 +16,3 @@
 - I got this idea from kitrod when he posted a really cool cassie concept *image below*.
 
 ![](https://media.discordapp.net/attachments/472406493229219860/892969005462220880/cassieterminal.png?width=1160&height=676)
-e
