@@ -1,5 +1,8 @@
 # **CassieOS**
 
+## 9/30/2021, Since im brand new with making a linux OS I figured some stuff out, This OS will be based on Ubuntu-mini since making the OS from scratch is toooooooo much work, Sadly Ubuntu-mini only goes to ubuntu 18.04 which isn't a massive issue, Also CassieOS will be 64bit (so amd64, x86_64), I'm going to mess around and test out this ubuntu-mini and see if it will work for this project, Wish me luck! -Denty
+
+
 ## FAQ
 
 
