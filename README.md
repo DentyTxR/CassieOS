@@ -16,3 +16,12 @@
 - I got this idea from kitrod when he posted a really cool cassie concept *image below*.
 
 ![](https://media.discordapp.net/attachments/472406493229219860/892969005462220880/cassieterminal.png?width=1160&height=676)
+
+### **ETA for release?**
+- ETA 5 Years, No but there will be a few builds before a official stable release, I plan on releasing a beta build in the next few weeks hopefully.
+
+### **Is there a Discord?**
+- Yes, We will be using our SCP:SL ServerHosts Discord which has my 2 other SCP:SL projects (SCPSL FAQ project and a dedicated server for server hosts)
+
+### **Is this going to be a really big project and long time supported?**
+- It would be cool if this project gets heavily supported by people, If it does I will try my best to keep this OS alive and updated!
