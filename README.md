@@ -1,8 +1,5 @@
 # **CassieOS**
 
-## 9/30/2021, Since im brand new with making a linux OS I figured some stuff out, This OS will be based on Ubuntu-mini since making the OS from scratch is toooooooo much work, Sadly Ubuntu-mini only goes to ubuntu 18.04 which isn't a massive issue, Also CassieOS will be 64bit (so amd64, x86_64), I'm going to mess around and test out this ubuntu-mini and see if it will work for this project, Wish me luck! -Denty
-
-
 ## FAQ
 
 
@@ -28,3 +25,9 @@
 
 ### **Is this going to be a really big project and long time supported?**
 - It would be cool if this project gets heavily supported by people, If it does I will try my best to keep this OS alive and updated!
+
+## Updates
+
+#### 9/30/2021, Since im brand new with making a linux OS I figured some stuff out, This OS will be based on Ubuntu-mini since making the OS from scratch is toooooooo much work, Sadly Ubuntu-mini only goes to ubuntu 18.04 which isn't a massive issue, Also CassieOS will be 64bit (so amd64, x86_64), I'm going to mess around and test out this ubuntu-mini and see if it will work for this project, Wish me luck! -Denty
+
+#### 10/1/2021, Ubuntu-mini was useless and not what I was looking for, Got the source code of ubuntu and will use it as the base line so I dont have to code every single thing, Pretty much doing this from scratch so everytime I add stuff I will need to build the OS which will take alot of time and resources, Working on a environment that I can use to do all this stuff, This project will take a long long time since im the only one doing everything, I'm estimating that a beta/testing build will be ready in a few months and a stable release in half a year, Again this will take a LOT of time since I've never made a linux OS before and I need todo a lot of research about this topic and make sure everything works, Still dont know how much I will put into this project, Either it will be a small scale thing adding and modifying stuff to a SCP theme or I will make this a acutal supported OS with up-to-date stuff, Might not get far in this project and I could drop it half way through since I dont have a team or contributors so wish me luck!
