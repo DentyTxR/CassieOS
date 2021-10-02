@@ -24,5 +24,5 @@
 - ETA 5 Years, No but there will be a few builds before a official stable release, I plan on releasing a beta build in the next few weeks hopefully.
 
 ### **Is there a Discord?**
-- Yes, We will be using our SCP:SL ServerHosts Discord which has my 2 other SCP:SL projects (SCPSL FAQ project and a dedicated server for server hosts)
+- Yes, We will be using our SCP:SL ServerHosts Discord which has my 2 other SCP:SL projects (SCPSL FAQ project and a dedicated server for server hosts) discord.gg/qZ97fZjJeq
 
