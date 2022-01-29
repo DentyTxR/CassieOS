@@ -1,4 +1,19 @@
-# **CassieOS**
+<div align="center">
+  <br />
+  <p>
+    <img src="https://raw.githubusercontent.com/DentyTxR/CassieOS/0b523a0bee902796f703718f1a086c2f65bba7f3/github-data/local_1.svg"/>
+  </p>
+  <br />
+  <p>
+    <a href="https://discord.gg/qZ97fZjJeq">
+      <img src="https://discordapp.com/api/guilds/702301139319783464/widget.png?style=shield" alt="Discord Server">
+    </a>
+    <a href="https://github.com/DentyTxR/SCPSL-FAQ-Project/issues">
+      <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/DentyTxR/SCPSL-FAQ-Project">
+    </a>
+    <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022">
+  </p>
+</div>
 
 ## FAQ
 
@@ -26,3 +41,4 @@
 ### **Is there a Discord?**
 - Yes, We will be using our SCP:SL ServerHosts Discord which has my 2 other SCP:SL projects (SCPSL FAQ project and a dedicated server for server hosts) discord.gg/qZ97fZjJeq
 
+## More info can be found [here](https://dentytxr.github.io/CassieOS/)
